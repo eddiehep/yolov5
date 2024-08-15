@@ -25,6 +25,7 @@
 
 storage.googleapis.com
 runs/*
+!runs/train/charizard_detector-updated-3/weights/best.pt
 data/*
 data/images/*
 !data/*.yaml
